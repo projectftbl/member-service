@@ -1,0 +1,8 @@
+{
+  "LOGGING": {
+    "LEVEL": "info"
+  }
+, "RETHINKDB": {
+    "DATABASE": "testing"
+  }
+}
