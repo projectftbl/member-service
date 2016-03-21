@@ -20,4 +20,13 @@
     "HOST": "localhost"
   , "PORT": 6379
   }
+
+, "LOGGING": {
+    "TYPE": "papertrail"
+  }
+
+, "PAPERTRAIL": {
+    "HOST": "logs4.papertrailapp.com"
+  , "PORT": 24180
+  }
 }
