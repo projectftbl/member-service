@@ -31,7 +31,7 @@
     "@ftbl/request": "^1.0.0",
     "@ftbl/scheduler": "^1.0.1",
     "@ftbl/server": "^1.1.1",
-    "@ftbl/social": "^1.0.0",
+    "@ftbl/social": "^1.1.4",
     "@ftbl/socket": "^1.0.4",
     "@ftbl/stats": "^1.0.0",
     "@ftbl/store": "^1.1.7",
