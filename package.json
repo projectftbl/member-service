@@ -1,6 +1,6 @@
 {
   "name": "@ftbl/member-service",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Members web services",
   "main": "node index",
   "scripts": {
