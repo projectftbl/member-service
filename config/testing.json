@@ -1,5 +1,7 @@
 {
-  "LOGGING": {
+  "HOST": "http://testing.api.liveforfootball.com"
+
+, "LOGGING": {
     "LEVEL": "info"
   }
 , "RETHINKDB": {

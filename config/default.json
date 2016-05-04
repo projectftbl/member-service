@@ -6,7 +6,32 @@
 
 , "HTTP": {
     "CORS": { "Access-Control-Allow-Credentials": true, "origin": "*" }
+
+  , "AUTHENTICATE": [ 
+      "ftbl/ftbl/guest"
+    , "system/system/system"
+    , "signup/signup/guest" 
+    ]
   }
+
+, "ROLES": [
+    { "name": "Guest", "handle": "guest", "claims": [ 
+        { "entity": "member", "right": 1 } 
+      , { "entity": "user", "right": 1 } 
+      ] 
+    }
+  , { "name": "System", "handle": "system", "claims": [ 
+        { "entity": "member", "right": 15 } 
+      , { "entity": "user", "right": 15 } 
+      , { "entity": "system", "right": 15 } 
+      ]
+    }
+  , { "name": "Support", "handle": "support", "claims": [ 
+        { "entity": "member", "right": 15 } 
+      , { "entity": "user", "right": 15 } 
+      ]
+    }
+  ]
 
 , "CACHE": {
     "TTL": 120
