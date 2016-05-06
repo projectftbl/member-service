@@ -7,4 +7,14 @@
 , "RETHINKDB": {
     "DATABASE": "testing"
   }
+
+, "TWITTER": {
+    "ID": "4oE4QjJSMnScsC5qmStGBy45a"
+  , "SECRET": "ExM2bmJDf6hbo88AjLEtbrgYkjBsds9kzuw5bf0lV5mCH6HVpz"
+
+  , "TOKEN": {
+      "TOKEN": "3297881-Cv5mxlbzlfKVEnVvuMFpe5Fg8iA3505jCvasipJ2Z1"
+    , "SECRET": "K80fKX3VCcXpj0RmCnsoiH6mF2DW9yCIUvNadz5Ohyn0H"
+    }
+  }
 }
