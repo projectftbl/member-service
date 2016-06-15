@@ -36,7 +36,7 @@
     "@ftbl/social": "^1.1.8",
     "@ftbl/socket": "^1.0.4",
     "@ftbl/stats": "^1.0.0",
-    "@ftbl/store": "^1.2.5",
+    "@ftbl/store": "^1.2.16",
     "@ftbl/task": "^1.1.4",
     "@ftbl/users": "^1.0.0",
     "@ftbl/utility": "^1.0.2",
