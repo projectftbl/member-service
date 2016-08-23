@@ -4,7 +4,7 @@ var fs = require('fs')
 
 var importer = new Importer({ user: users({ name: 'system' }) });
 
-importer.importCsv(fs.readFileSync(__dirname + '/accounts.csv', 'utf8')).then(function() {
+importer.importCsv(fs.readFileSync(__dirname + '/players.csv', 'utf8')).then(function() {
   process.exit(0);
 })
 .catch(function(err) {

@@ -21,4 +21,23 @@
 , { "name": "This Is Futbol", "type": "publisher", "accounts": [ { "link": "http://www.thisisfutbol.com/feed", "network": "rss" } ] }
 , { "name": "Live For Liverpool", "type": "publisher", "accounts": [ { "link": "http://www.live4liverpool.com/feed", "network": "rss" } ] }
 , { "name": "The Football Transfer Tavern", "type": "publisher", "accounts": [ { "link": "http://www.footballtransfertavern.com/feed", "network": "rss" } ] }
+, { "name": "BBC Sport", "type": "publisher", "accounts": [ { "link": "http://feeds.bbci.co.uk/sport/football/rss.xml?edition=uk", "network": "rss" } ] }
+, { "name": "The Guardian", "type": "publisher", "accounts": [ { "link": "https://www.theguardian.com/football/rss", "network": "rss" } ] }
+, { "name": "Tribal", "type": "publisher", "accounts": [ { "link": "http://www.tribalfootball.com/rss/mediafed/general/rss.xml", "network": "rss" } ] }
+, { "name": "The Independent", "type": "publisher", "accounts": [ { "link": "http://www.independent.co.uk/sport/football/rss", "network": "rss" } ] }
+, { "name": "World Soccer", "type": "publisher", "accounts": [ { "link": "http://www.worldsoccer.com/feed", "network": "rss" } ] }
+, { "name": "Blue Moon", "type": "publisher", "accounts": [ { "link": "http://bluemoon-mcfc.co.uk/News/Feed.aspx", "network": "rss" } ] }
+, { "name": "FC Inter News", "type": "publisher", "accounts": [ { "link": "http://feeds.fcinternews.it/rss", "network": "rss" } ] }
+, { "name": "The Evening Standard", "type": "publisher", "accounts": [ { "link": "http://www.standard.co.uk/sport/football/rss", "network": "rss" } ] }
+, { "name": "Fresh Arsenal", "type": "publisher", "accounts": [ { "link": "http://fresharsenal.com/feed/", "network": "rss" } ] }
+, { "name": "North London Is Red", "type": "publisher", "accounts": [ { "link": "http://northlondonisred.co.uk/feed/", "network": "rss" } ] }
+, { "name": "Telegraph", "type": "publisher", "accounts": [ { "link": "http://www.telegraph.co.uk/football/rss.xml", "network": "rss" } ] }
+, { "name": "Talksport", "type": "publisher", "accounts": [ { "link": "http://talksport.com/rss/sports-news/football/feed", "network": "rss" } ] }
+, { "name": "Daily Mail", "type": "publisher", "accounts": [ { "link": "http://www.dailymail.co.uk/sport/index.rss", "network": "rss" } ] }
+, { "name": "The Sun", "type": "publisher", "accounts": [ { "link": "http://www.thesundaily.my/rss/sports", "network": "rss" } ] }
+, { "name": "ESPN Football", "type": "publisher", "accounts": [ { "link": "http://www.espn.co.uk/espn/rss/football/news", "network": "rss" } ] }
+, { "name": "FIFA", "type": "publisher", "accounts": [ { "link": "http://www.fifa.com/rss/index.xml", "network": "rss" } ] }
+, { "name": "Football Eye", "type": "publisher", "accounts": [ { "link": "http://www.eyefootball.com/football_news.xml", "network": "rss" } ] }
+, { "name": "UEFA", "type": "publisher", "accounts": [ { "link": "http://www.uefa.com/rssfeed/news/rss.xml", "network": "rss" } ] }
+
 ]
