@@ -8,8 +8,7 @@
     "CORS": { "Access-Control-Allow-Credentials": true, "origin": "*" }
 
   , "AUTHENTICATE": [ 
-      "ftbl/ftbl/guest"
-    , "system/system/system"
+      "system/system/system"
     , "signup/signup/guest" 
     ]
   }
@@ -50,10 +49,5 @@
     "ID": ""
   , "TOKEN": ""
   , "NUMBER": ""
-  }
-
-, "STATS": {
-    "KEY": "cnfvbvfcm3bugp38awq8nyha"
-  , "SECRET": "MUkq8t2CEv"
   }
 }

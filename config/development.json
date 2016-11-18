@@ -6,14 +6,14 @@
   }
 
 , "TWITTER": {
-    "ID": "XHacDOM0P1j1alg0fNy4yIBYj"
-  , "SECRET": "FiWmbJZ4i943y17zDtdNLLFjSbH9pVtHhhHGo7kTELcyznlU2N"
+    "ID": ""
+  , "SECRET": ""
   }
 
 , "RETHINKDB": {
     "HOST": "localhost"
   , "PORT": 28015
-  , "DATABASE": "ftbl"
+  , "DATABASE": "recipher"
   }
   
 , "REDIS": {
@@ -22,7 +22,7 @@
   }
 
 , "LOGGING": {
-    "TYPE": "papertrail"
+    "TYPE": "console"
   }
 
 , "PAPERTRAIL": {
